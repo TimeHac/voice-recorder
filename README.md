@@ -1,4 +1,4 @@
-# voice-recorder
+# voice_recorder.ipynp
 import sounddevice as sd
 from scipy.io.wavfile import write
 
